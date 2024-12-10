@@ -3,4 +3,10 @@ This is line 2 of file 1.
 This is line 3 of file 1.
 This is line 4 of file 1.
 This is line 5 of file 1.
+This is line 6 of file 1.
+This is line 7 of file 1.
+This is line 8 of file 1.
+This is line 9 of file 1.
+Ths is line 10 of file 1.
+
 
